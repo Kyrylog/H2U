@@ -1,0 +1,15 @@
+{
+    // Per 1 MwH of consumed Renewable Energy
+    "country-of-origin": "Ukraine",
+    "fuel-producer": "",
+    "address": "",
+    "amount": "",
+    "GHG emissions": "",
+    // Self-generation, Physical Power Purchase Agreement (PPA), 
+    // Financial PPA, Project-specific supply contract, 
+    // Retail supply contract, Unbundled procurement of EACs, 
+    // Passive procurement EACs, Passive procurement mix
+    "RE-source": "",
+    "RE-producer-name": "",
+    "EACS-id": ""
+}

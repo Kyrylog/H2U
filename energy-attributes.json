@@ -1,0 +1,15 @@
+{
+    // for each 1 MwH of renewable energy
+    "EACs-id": "",
+    "RE-producer-name": "",
+    "RE-producer-country": "",
+    "RE-producer-facility": "",
+    "RE-producer-address": "",
+    "RE-producer-technology-type": "",
+    "RE-producer-installation-type": "",
+    "RE-producer-installation-age": "",
+    "RE-producer-installation-capacity": "",
+    "RE-datetime-production-start": "",
+    "RE-datetimetime-production-end": "",
+    "CO2e": ""
+}

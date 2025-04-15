@@ -1,0 +1,48 @@
+{
+//     General information
+// > Name and address of the supplier
+"supplier-name": "",
+"supplier-address": "",
+// > Name and address of the recipient
+"recipient-name": "",
+"recipient-address": "",
+// > Related contract number
+"contract-number": "",
+// > Date of dispatch of the sustainable material
+"date-of-dispatch": "",
+// > Address of dispatch/shipping point of the sustainable material (e.g.
+// processing unit, storage facility, hydrogen terminal, hydrogen entry
+// point) (applicable if different from the address of the supplier)
+"address-of-dispatch": "",
+// > Address of receipt/receiving point of the sustainable material (e.g.
+// processing unit, storage facility, hydrogen terminal, hydrogen exit point)
+// (applicable if different from the address of the recipient)
+"address-of-receipt": "",
+// > Name of the certification system and certificate number of the supplier
+"supplier-cert-system": "",
+"supplier-cert-number": "",
+// > Date of the issuance of the Sustainability Declaration
+"date-of-SD": "",
+// > Unique number of the Sustainability Declaration
+"number-of-SD": "", 
+
+// Product related information:
+// > Type of product (e.g. hydrogen, methane, methanol, ammonia, etc); the
+// product group has to be reflected
+"type-of-product": "",
+// > Raw material: Renewable electricity
+"raw-material": "",
+// > Country of origin of the renewable electricity: Country where renewable
+// electricity was produced
+"country of origin": "",
+// > Scope of certification of the renewable electricity:
+// o Statement: “The renewability of the electricity was verified
+// according to Art. 3 and 4 of the Delegated Act on RFNBOs
+"statement1": "",
+// > Quantity of delivered sustainable product in MWh (based on LHV),
+// metric tons or m³ at 15°C
+"quantity": "",
+// > Statement(s) “ISCC Compliant” and/or “EU RED Compliant” (if
+// applicable, please see ISCC Document 203 for further information)
+"statement2": ""
+}
